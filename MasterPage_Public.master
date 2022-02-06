@@ -1,0 +1,78 @@
+<%@ Master Language="VB" CodeFile="MasterPage_Public.master.vb" Inherits="MasterPage_Public" %>
+<%@ Register TagPrefix="oem" Namespace="OboutInc.EasyMenu_Pro" Assembly="obout_EasyMenu_Pro" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>masterpublic</title>
+    <link rel="stylesheet" type="text/css" href="css/master.css" />
+    <link rel="stylesheet" type="text/css" href="css/Chart_Settings.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div  style="text-align: left">
+    <table border="0" cellspacing="0" class="headertblcharts" height="30px">
+    <tr>
+    <td >
+
+    </td>
+    </tr>
+    </table>
+    <table border="0" cellspacing="0" class="headertblcharts" height="25px">
+    <tr>
+    <td>
+<asp:PlaceHolder ID="placehMainMenu" runat="server" EnableTheming="True"></asp:PlaceHolder>
+<div id="divEasyMenu1">
+<oem:EasyMenu id="EasymenuMain1" runat="server" ShowEvent="Always" StyleFolder="obout/Easymenu_HorMainMaster" Position="Horizontal" Width="700" CSSMenu="ParentMenu"  CSSMenuItemContainer="ParentItemContainer"  >
+<CSSClassesCollection>
+<oem:CSSClasses ObjectType="OboutInc.EasyMenu_Pro.MenuItem" 
+Component="ParentItem" ComponentOver="ParentItemOver"
+ComponentContentCell="ParentItemContentCell" 
+ComponentContentCellOver="ParentItemContentCellOver"
+ComponentLeftRoundCornerCell="ParentItemLeftRoundCornerCell" 
+ComponentLeftRoundCornerCellOver="ParentItemLeftRoundCornerCellOver"
+ComponentRightRoundCornerCell="ParentItemRightRoundCornerCell" 
+ComponentRightRoundCornerCellOver="ParentItemRightRoundCornerCellOver" />
+</CSSClassesCollection>
+	<Components>
+		<oem:MenuItem InnerHtml="<font size=1>Item A</font>"  ID="item11"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="<font size=1>Item B</font>" ID="item12"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="<font size=1>Item C</font>" ID="item13"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="<font size=1>Item D</font>" ID="item14"></oem:MenuItem>
+	</Components>
+</oem:EasyMenu>
+<oem:EasyMenu id="Easymenu1" runat="server" ShowEvent="MouseOver" AttachTo="item11" StyleFolder="obout/Easymenu_HorMainMaster"
+	Position="Vertical" Width="130" Align="Under">
+	<Components>
+		<oem:MenuItem InnerHtml="Item 11" ID="item111"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="Item 12" ID="item112"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="Item 13" ID="item113"></oem:MenuItem>
+		<oem:MenuItem InnerHtml="Item 14" ID="item114"></oem:MenuItem>
+	</Components>
+</oem:EasyMenu>
+</div>
+    </td>
+    </tr>
+    </table>
+    <ajaxToolkit:ToolkitScriptManager runat="Server"  ID="ScriptManager1" />
+    <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; height: 100%" id="#canva">
+    <tr>
+       <td align="left" valign="top">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+       </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2" valign="top" class="copyright">
+         <asp:Label ID="labCopyright" runat="server" >Copyright XXXX &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;readtheticker.com</asp:Label>
+        </td>
+    </tr>
+    </table>
+    <br />
+    <br />    
+    </div>
+    </form>
+</body>
+</html>

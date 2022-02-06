@@ -1,0 +1,2667 @@
+﻿body 
+{
+}
+
+
+
+table.BlogImage1 {
+	border-width: 1px;
+	border-spacing: ;
+	border-style:dotted;
+	border-color: blue;
+	border-collapse:collapse;
+	background-color: blue;
+}
+table.BlogImage2 {
+	border-width: 1px;
+	border-spacing: ;
+	border-style: dotted;
+	border-color: red;
+	border-collapse: collapse;
+	background-color: red;
+}
+table.BlogImage3 {
+	border-width: 1px;
+	border-spacing: ;
+	border-style: dotted;
+	border-color: black;
+	border-collapse: collapse;
+	background-color: black;
+}
+table.BlogImage4 {
+	border-width: 1px;
+	border-spacing: ;
+	border-style: dotted;
+	border-color: silver;
+	border-collapse: collapse;
+	background-color: silver;
+}
+.EDIT1disabled_button    
+{        
+color:#aca899;        
+background-color:#efefef;        
+border:solid 1px #c0c0c0;
+}
+.GridTransType 
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+	color:#315686;
+	text-decoration:underline;
+}
+.PeriodTbl{
+    height:8px;
+}
+.Lev1Tbl{
+    height:8px;
+}
+.tblBlue
+{
+    background-color:#B4D2EA;
+    font-family:Verdana,Arial;
+}
+.tbl
+{
+    background-color:#D3D3D3;
+    font-family:Verdana,Arial;
+}
+.tdText {
+    font-family:Verdana,Arial;
+    font-size:11px;
+	color:#333333;
+	width:740px;
+	height:200px;
+}
+.tdContText {
+    font-family:Verdana,Arial;
+    font-size:11px;
+	color:#333333;
+	background-color:#DBDBDB;
+	width:740px;
+	height:1px;
+}
+.contab{
+	width:740px;
+}
+.HandPointer
+{
+  cursor:pointer;
+}
+.Area
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    text-align:left;
+}
+.AreaBigger
+{
+    font-family:Verdana,Arial;
+    font-size:12px;
+    text-align:left;
+}
+.AreaTableInfo
+{
+    font-family:Verdana,Arial;
+    font-size:14px;
+    text-align:left;
+    font-weight:bolder;
+}
+.CommentsArea
+{
+    text-align:left;
+}
+.CommentsTimeStamp
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    width:550;
+    text-align:left;
+}
+.TinyArea
+{
+    font-family:Verdana,Arial;
+    font-size:9px;
+    text-align:left;
+}
+.TinyArea1
+{
+    font-family:Arial,Verdana,;
+    font-size:9px;
+    text-align:left;
+}
+.AreaError
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    text-align:left;
+    color:Red;
+}
+.TitleError
+{
+    font-family:Verdana,Arial;
+    font-size:14px;
+    font-weight:bolder;
+    text-decoration:underline;
+    text-align:left;
+    color:Red;
+}
+.InputButton
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    text-align:center;
+}
+.Title
+{
+    font-family:Verdana,Arial;
+    font-size:14px;
+    font-weight:bolder;
+    text-decoration:underline;
+    text-align:left;
+}
+.TinyTitle
+{
+    font-family:Verdana,Arial;
+    font-size:10px;
+    font-weight:bolder;
+    text-decoration:underline;
+    text-align:left;
+}
+.SmallTitle
+{
+    font-family:Verdana,Arial;
+    font-size:12px;
+    font-weight:bolder;
+    text-decoration:underline;
+    text-align:left;
+}
+
+.MediumTitle
+{
+    font-family:Verdana,Arial;
+    font-size:14px;
+    font-weight:bolder;
+    text-decoration:underline;
+    text-align:left;
+}
+.MiniBlogTitle
+{
+    font-family:Verdana,Arial;
+    font-size:20px;
+    font-weight:bolder;
+    text-align:left;
+}
+.MainBlogTitle
+{
+    font-family:Verdana,Arial;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+}
+.UserWelcome
+{
+    font-family:Verdana,Arial;
+    font-size:18px;
+    font-weight:bolder;
+    text-align:left;
+}
+.divShow{
+    font-family:Verdana,Arial;
+    font-size:13px;
+}
+.divHide{
+    font-family:Verdana,Arial;
+    font-size:12px;
+    display:none;
+}
+.divShowClean{
+}
+.divHideClean{
+    display:none;
+}
+.Imghidden
+{
+    display: none;
+    width: 20px;
+}
+.Imgvisible
+{
+    display: ;
+    width:20px;
+}
+.tblPortfolioHeader
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    color:White;
+    text-align:left;
+}
+.tblErrorHeader
+{
+    font-family:Verdana,Arial;
+    font-size:18px;
+    background-color:#DBDBDB;
+}
+.tblErrorBody
+{
+    font-family:Verdana,Arial;
+    font-size:12px;
+    background-color:#DBDBDB;
+}
+.tblTinyErrorHeader
+{
+    font-family:Verdana,Arial;
+    font-size:11px;
+    text-align:left;
+    background-color:#DBDBDB;
+}
+.tblTinyErrorBody
+{
+    font-family:Verdana,Arial;
+    font-size:9px;
+    text-align:left;
+    background-color:#DBDBDB;
+}
+.tblChartInfo
+{
+    width:auto;
+    height:auto;
+    background-color:White;
+    font-family:Times,Verdana,Arial;
+    font-size:11px;
+}
+.tblChartInfoMain
+{
+    width:auto;
+    height:auto;
+    font-family:Times,Verdana,Arial;
+    font-size:11px;
+}
+.tblChartInfoIndex
+{
+    width:auto;
+    height:auto;
+    border-color:Red;
+    border-style:solid;
+    border-width:1px;
+    background-color:#FFF17C;
+    color:Black;
+    font-family:Verdana,Arial;
+    font-size:20px;
+}
+.tblChart
+{
+    width:auto;
+    height:auto;
+    border: 1px solid #333333;
+    background-color:white;
+}
+.tblChartMain
+{
+    width:auto;
+    height:auto;
+    border: 1px solid #333333;
+}
+.TenPerPageColorTag
+{
+    font-family:Verdana,Arial;
+    font-size:75%;
+    font-weight: bold;
+    border-style:solid;
+    border-width:thin;
+    border-color:Black;
+}
+.UserGroupSub_Headings
+{
+    color: blue;
+    font-family:Verdana,Arial;
+    font-size:75%;
+    font-weight: bold;
+   /* background-color: #0026FF;*/
+}
+.UserGroupSub_HeadingsNoCharts
+{
+    color: white;
+    font-family:Verdana,Arial;
+    font-size:75%;
+    font-weight: bold;
+    background-color: #0026FF;
+}
+/*Modal Popup for user Group*/
+.UserGroup_modalBackground 
+{
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.UserGroup_modalPopup 
+{
+	background-color:#DBDBDB;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:415px;
+}
+/*Modal Popup for Chart Styles Chart_Volume1*/
+.ChartStyle_modalBackground 
+{
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.ChartStyle_modalPopup 
+{
+	background-color:#DBDBDB;
+	border-width:3px;
+	border-style:solid;
+	border-color:Gray;
+	padding:3px;
+	width:260px;
+}
+/* CSS for Blog main title management - FULL*/
+.MainBlogPostTitle:link 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Black;
+    font-weight:bolder;
+    font-size:18px;
+    text-decoration:none;
+} 
+.MainBlogPostTitle:visited 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Purple;
+    font-weight:bolder;
+    font-size:18px;
+    text-decoration:none;
+} 
+.MainBlogPostTitle:hover 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Red;
+    background-color:Yellow;
+    font-weight:bolder;
+    font-size:18px;
+    text-decoration:underline;
+} 
+.MainBlogPostTitle:active 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Black;
+    font-weight:bolder;
+    font-size:18px;
+    text-decoration:none;
+}
+/* CSS for Blog main title management - PART*/
+.MainBlogPostTitlePart:link 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Black;
+    font-weight:bold;
+    font-size:14px;
+    text-decoration:none;
+} 
+.MainBlogPostTitlePart:visited 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Purple;
+    font-weight:bold;
+    font-size:14px;
+    text-decoration:none;
+} 
+.MainBlogPostTitlePart:hover 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Red;
+    background-color:Yellow;
+    font-weight:bold;
+    font-size:14px;
+    text-decoration:underline;
+} 
+.MainBlogPostTitlePart:active 
+{
+    font-family:Verdana, Arial, helvetica, sans-serif; 
+    color:Black;
+    font-weight:bold;
+    font-size:14px;
+    text-decoration:none;
+}
+
+/* for MOBILE jump to blog*/
+
+.mobJump
+{
+margin-left:1px;
+}
+
+/* CSS for menu links for save new chart style*/
+.dt1:link 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : underline; 
+} 
+.dt1:visited 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : underline; 
+} 
+.dt1:hover 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #ff3e3e; 
+background-color:Yellow;
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : underline; 
+} 
+.dt1:active 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #007AF4; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : underline; 
+}
+
+/* CSS for menu links master menu copyright statement*/
+.dt2:link 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #FFFFFF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :  none; 
+} 
+.dt2:visited 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #FFFFFF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :  none; 
+} 
+.dt2:hover 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #000000; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :  none; 
+} 
+.dt2:active 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #FFFFFF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : none; 
+}
+
+/* CSS for alpha table scan*/
+.dt3:link 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :none; 
+} 
+.dt3:visited 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color :  #0026FF; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :none; 
+} 
+.dt3:hover 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #ff3e3e; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :underline; 
+background: #FFFF00;
+} 
+.dt3:active 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #007AF4; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :none; 
+}
+/* CSS for google manager*/
+.dt4:link 
+{
+font-family: times,arial; 
+color : #000000; 
+font-weight:100;
+font-size : 1px; 
+text-decoration : none; 
+margin-left:-10px;
+} 
+.dt4:visited 
+{
+font-family: times,arial; 
+color :#000000; 
+font-weight:100;
+font-size : 1px; 
+text-decoration : none; 
+} 
+.dt4:hover 
+{
+font-family: times,arial; 
+color : #000000;
+font-weight:100;
+font-size : 1px; 
+text-decoration : none; 
+} 
+.dt4:active 
+{
+font-family: times,arial; 
+color : #000000;
+font-weight:100;
+font-size : 9px; 
+text-decoration :none; 
+}
+
+/* CSS for menu links for GOOGLE HTML save new chart style*/
+.dt5:link 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 10px; 
+text-decoration : underline; 
+} 
+.dt5:visited 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 10px; 
+text-decoration : underline; 
+} 
+.dt5:hover 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color:Red;
+background-color:Yellow;
+font-weight:normal;
+font-size:10px;
+text-decoration:underline;
+border:none;
+cursor:default;
+cursor:hand;
+cursor:pointer;
+} 
+.dt5:active 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #007AF4; 
+font-weight : normal; 
+font-size : 10px; 
+text-decoration : underline; 
+}
+
+/* CSS for menu links for blog href links*/
+.dt6:link 
+{
+font-family: Verdana,Arial,Times; 
+color : #0026FF; 
+font-weight:bolder;
+font-size : 13px; 
+text-decoration :none;
+} 
+.dt6:visited 
+{
+font-family: Verdana,Arial,Times; 
+color : #0026FF; 
+font-weight : bolder; 
+font-size : 13px; 
+text-decoration :none;
+} 
+.dt6:hover 
+{
+font-family: Verdana,Arial,Times; 
+color:Red;
+background-color:Yellow;
+font-weight:bolder;
+font-size:13px;
+text-decoration:underline;
+border:none;
+cursor:default;
+cursor:hand;
+cursor:pointer;
+} 
+.dt6:active 
+{
+font-family: Verdana,Arial,Times; 
+color : #007AF4; 
+font-weight :bolder;
+font-size : 13px; 
+text-decoration :none;
+}
+
+/* CSS for menu links for blog href links READMORE*/
+.dt7:link 
+{
+font-family: Verdana,Arial,Times; 
+color : #0026FF; 
+font-weight:bolder;
+font-size : 10px; 
+text-decoration :none;
+} 
+.dt7:visited 
+{
+font-family: Verdana,Arial,Times; 
+color : #0026FF; 
+font-weight : bolder; 
+font-size : 10px; 
+text-decoration :none;
+} 
+.dt7:hover 
+{
+font-family: Verdana,Arial,Times; 
+color:Red;
+background-color:Yellow;
+font-weight:bolder;
+font-size:10px;
+text-decoration:underline;
+border:none;
+cursor:default;
+cursor:hand;
+cursor:pointer;
+} 
+.dt7:active 
+{
+font-family: Verdana,Arial,Times; 
+color : #007AF4; 
+font-weight :bolder;
+font-size : 10px; 
+text-decoration :none;
+}
+
+/* CSS for menu links for URL from report*/
+.dt8:link 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : Black; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : none; 
+} 
+.dt8:visited 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color :  Black; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :  none; 
+} 
+.dt8:hover 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #ff3e3e; 
+background-color:Yellow;
+font-weight : normal; 
+font-size : 9px; 
+text-decoration : underline; 
+} 
+.dt8:active 
+{
+font-family: verdana, arial, helvetica, sans-serif; 
+color : #007AF4; 
+font-weight : normal; 
+font-size : 9px; 
+text-decoration :  none; 
+}
+
+/* CSS FOR CHART SYMBOLS TOOLTIP */
+.dhtmlfloatie{
+position: absolute;
+left: 0;
+left: -900px;
+filter:alpha(opacity=0);
+-moz-opacity:0;
+border: 2px solid red;
+padding: 5px;
+z-index: 100;
+}
+/* CSS FOR CHART DATA BOX */
+.dhtmlDataBoxfloatie{
+position: absolute;
+border-style:solid;
+border-width:1px;
+border-color:Gray;
+display:none;
+z-index: 100;
+font-family:arial, helvetica, sans-serif; 
+font-weight :bolder;
+font-size : 16px; 
+text-decoration :  none; 
+}
+/* MAIN MENU CSS */
+.menutabsname /* For Welcome Guest only*/
+{
+width: 125px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFFFFF;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+/*Upper Not Secure*/
+.menutabs
+{
+width: 85px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFFFFF;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+.menutabs a:link
+{
+width: 85px; 
+text-align:center;
+color: #FFFFFF;
+background: #0026FF;
+float:left; 
+}
+.menutabs a:hover
+{
+height:28px;
+color:#FFFCCC;
+background: #00A010;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 4px;
+margin-top: -5px;
+margin-left: -1px;
+}
+/* Upper Secure Area */
+.menutabsSec
+{
+width: 85px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFD60C;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+.menutabsSec a:link
+{
+width: 85px; 
+text-align:center;
+color: #FFD60C;
+background: #0026FF;
+float:left; 
+}
+.menutabsSec a:hover
+{
+height:28px;
+color:#FFD3F9;
+background: #00A010;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 4px;
+margin-top: -5px;
+margin-left: -1px;
+}
+
+
+
+/* Upper Other*/
+.menutabstatic
+{
+height:28px;
+width:85px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+text-decoration:none;
+padding-top:3px;
+float:left;
+text-transform: propercase;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+background-color:#f4f4f4;
+z-index:1000;
+padding-top: 4px;
+margin-top: -1px;
+margin-right: -1px;
+}
+.menutabspacer
+{
+height:30px;
+border-bottom: solid 1px #b5b5b5;
+margin-right: 1px;
+}
+
+/*Lower*/
+.smenutabs
+{
+width: 85px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFBCC4;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+.smenutabs a:link
+{
+width: 85px; 
+text-align:center;
+color: #FFBCC4;
+background: #0026FF;
+float:left; 
+}
+.smenutabs a:hover
+{
+height:28px;
+color:#FFFCCC;
+background: #B200FF;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 4px;
+margin-top: -5px;
+margin-left: -1px;
+}
+.smenutabstatic
+{
+height:28px;
+width:85px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+text-decoration:none;
+padding-top:3px;
+float:left;
+text-transform: propercase;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+background-color:#f4f4f4;
+z-index:1000;
+padding-top: 4px;
+margin-top: -1px;
+margin-right: -1px;
+}
+.smenutabspacer
+{
+height:30px;
+border-bottom: solid 1px #b5b5b5;
+margin-right: 1px;
+}
+
+/*ChartLight*/
+.clmenutabs
+{
+width: 55px; 
+height: 28px; 
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:9px; 
+font-weight:bolder;
+color: Blue;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:2px;
+padding-bottom:2px;
+background: Transparent;
+border: solid 1px Transparent;
+float:left;
+text-transform: propercase;
+}
+.clmenutabs a:link
+{
+width: 55px; 
+text-align:center;
+color: Blue;
+background: Transparent;
+float:left; 
+}
+.clmenutabs a:hover
+{
+height:28px;
+color:#FFFCCC;
+background: #B200FF;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 2px;
+padding-bottom:2px;
+margin-top: -5px;
+margin-left: -1px;
+}
+.clmenutabstatic
+{
+height:28px;
+width:55px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:9px; 
+font-weight:bolder;
+text-decoration:none;
+padding-top:2px;
+float:left;
+text-transform: propercase;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+background-color:#f4f4f4;
+z-index:1000;
+padding-top: 2px;
+padding-bottom:2px;
+margin-top: -1px;
+margin-right: -1px;
+}
+.clmenutabspacer
+{
+height:28px;
+border-bottom: solid 1px #b5b5b5;
+margin-right: 1px;
+}
+
+
+/*MyAlphaShortTerm*/
+.maltmenutabs
+{
+width: 85px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFBCC4;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+.maltmenutabs a:link
+{
+width: 85px; 
+text-align:center;
+color: #FFBCC4;
+background: #0026FF;
+float:left; 
+}
+.maltmenutabs a:hover
+{
+height:28px;
+color:#F7F7F7;
+background: #000000;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 4px;
+margin-top: -5px;
+margin-left: -1px;
+}
+.maltmenutabstatic
+{
+height:28px;
+width:85px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+text-decoration:none;
+padding-top:3px;
+float:left;
+text-transform: propercase;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+background-color:#f4f4f4;
+z-index:1000;
+padding-top: 4px;
+margin-top: -1px;
+margin-right: -1px;
+}
+.maltmenutabspacer
+{
+height:30px;
+border-bottom: solid 1px #b5b5b5;
+margin-right: 1px;
+}
+
+
+/*MyAlphaLongTerm*/
+.mastmenutabs
+{
+width: 85px; 
+height: 28px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+color: #FFBCC4;
+margin-bottom:0px;
+text-decoration:none;
+margin-right:-1px;
+padding-top:3px;
+background: #0026FF;
+border: solid 1px #0026FF;
+float:left;
+text-transform: propercase;
+}
+.mastmenutabs a:link
+{
+width: 85px; 
+text-align:center;
+color: #FFBCC4;
+background: #0026FF;
+float:left; 
+}
+.mastmenutabs a:hover
+{
+height:28px;
+color:#000000;
+background: #EAEAEA;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+border-bottom: solid 1px #b5b5b5;
+position:relative;
+padding-top: 4px;
+margin-top: -5px;
+margin-left: -1px;
+}
+.mastmenutabstatic
+{
+height:28px;
+width:85px;
+text-align:center;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px; 
+font-weight:bolder;
+text-decoration:none;
+padding-top:3px;
+float:left;
+text-transform: propercase;
+border-top: solid 1px #b5b5b5;
+border-right: solid 1px #b5b5b5;
+border-left: solid 1px #b5b5b5;
+background-color:#f4f4f4;
+z-index:1000;
+padding-top: 4px;
+margin-top: -1px;
+margin-right: -1px;
+}
+.mastmenutabspacer
+{
+height:30px;
+border-bottom: solid 1px #b5b5b5;
+margin-right: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* INVALID CREDS REPORTS */
+.ICRerror-table 
+{
+    width: 100%;
+    margin:3px;
+}
+.ICRerrorsummary-table 
+{
+    width: 30%;
+    margin:3px;
+}
+
+/* UPDATE PANEL PROGRESS*/
+.UPANProgress
+ {
+   background-color:White;
+   color:White;
+ }
+ 
+.UPANProgress img 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+ /* UPDATE PANEL PROGRESS YELLOW */
+.UPANProgressYellow
+ {
+   background-color:Yellow;
+   color:Yellow;
+ }
+ 
+.UPANProgressYellow img 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+ 
+ 
+ /* PAGE LOAD PROGRESS bAR */
+.BARProgress
+ {
+   background-color:Yellow;
+   color:Yellow;
+ }
+ 
+.BARProgress img 
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+ }
+ 
+ /* DRAWINGS */
+/******************************************************
+******** Angle Generator ********
+******************************************************/
+/* Classnames are having name like CG_tl. 
+	Here, AG stands for Angle Generator and 'pe' stands for Point Element */
+
+div.AGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute;
+	display: block;
+	z-index: 600;
+	width: 1px;
+	height: 1px;
+}
+
+div.AG_pe
+{
+	background-color: #000;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.AG_pe_H
+{
+	width: 2px;
+	height: 1px;
+}
+
+div.AG_pe_V
+{
+	width: 1px;
+	height: 2px;
+}
+
+div.AG_pe0
+{
+	background-color: Black;
+}
+
+div.AG_pe1
+{
+	background-color: Gray;
+}
+
+div.AG_pe2
+{
+	background-color: Lime;
+}
+
+div.AG_pe3
+{
+	background-color: Blue;
+}
+
+div.AG_pe4
+{
+	background-color:  Red;
+}
+
+div.AG_pe5
+{
+	background-color: Blue;	
+}
+
+div.AG_pe6
+{
+	background-color:  Lime;
+}
+
+div.AG_pe7
+{
+	background-color:  Gray;
+}
+
+div.AG_pe8
+{
+	background-color: Black;
+}
+
+div.AG_pe9
+{
+	background-color: Black;
+}
+
+div.AG_pe10
+{
+	background-color: Black;
+}
+
+div.AG_pe11
+{
+	background-color: #FF00DC;
+}
+
+div.AG_fX
+{
+	margin: -5px 0px;	
+}
+
+div.AG_fY
+{
+	margin: 0px -15px;	
+}
+/******************************************************
+******** Cycle Generator ********
+******************************************************/
+
+/* Classnames are having name like CG_bl. 
+	Here, CG stands for Cycle Generator and 'bl' stands for Bar Line */
+
+div.CGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.CG_pe
+{
+	background-color: #000;
+	width: 2px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CG_VLine
+{
+	top: 0px;
+	background-color: #00f;
+	width: 1px;
+	position: absolute;
+	z-index: 710;	
+}
+
+/******************************************************
+******** Trendline Generator ********
+******************************************************/
+
+/* Classnames are having name like TG_bl. 
+	Here, CG stands for Trendline Generator and 'bl' stands for Bar Line */
+
+div.TGcanvas
+{
+	line-height: 0px; 
+    font-size: small;   /* Maxim B changed*/
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.TG_pt1
+{
+	background-color: #0f0;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.TG_pt2
+{
+	background-color: #000;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.TG_pe
+{
+	background-color: #000;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+
+/*
+Maxim B chaged this code
+---------{      */
+
+div.TG_pt3 {
+    background-color: red;
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    z-index: 700;
+    border-radius: 50%;
+}
+
+div.TG_pt4 {
+    background-color: blue;
+    width: 3px;
+    height: 3px;
+    position: absolute;
+    z-index: 700;
+    border-radius: 50%;
+}
+
+
+
+/******************************************************
+******** Retracement Generator ********
+******************************************************/
+
+/* Classnames are having name like RG_bl. 
+	Here, RG stands for Retracement Generator and 'bl' stands for Bar Line */
+
+div.RGcanvas
+{
+	line-height: 0px; 
+	font-size: x-small; /* Ians change 0px;*/ 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.RG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.RG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.RG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.RG_HLine
+{
+	top: 0px;
+	background-color: #00f;
+	height: 1px;
+	position: absolute;
+	z-index: 710;	
+}
+
+div.RG_pe0
+{
+	background-color: blue;	
+}
+
+div.RG_pe1
+{
+	background-color: red;		
+}
+
+div.RG_pe2
+{
+	background-color:  blue;
+}
+
+div.RG_pe3
+{
+	background-color: red;	
+}
+
+div.RG_pe4
+{
+	background-color:  lime;	
+}
+
+div.RG_pe5
+{
+	background-color: Gray;	
+}
+
+div.RG_pe6
+{
+	background-color: #000;	
+}
+
+div.RG_pe7
+{
+	background-color: #000;	
+}
+
+div.RG_pe8
+{
+	background-color: #000;	
+}
+
+div.RG_pe9
+{
+	background-color: #000;	
+}
+
+div.RG_pe10
+{
+	background-color:#000;	
+}
+
+/******************************************************
+******** Arrow generator ********
+******************************************************/
+
+/* Classnames are having name like CG_tl. 
+	Here, AG stands for Angle Generator and 'pe' stands for Point Element */
+
+div.ARGcanvas
+{
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+img.ARGImg
+{
+	width: 10px;
+	height: 14px;	
+	position: absolute;
+}
+
+/******************************************************
+******** Channel Generator ********
+******************************************************/
+
+div.CHGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.CHG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CHG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CHG_pt3
+{
+	background-color: #0f0;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.CHG_pe
+{
+	background-color: #000;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+/******************************************************
+******** Pitchfork Generator ********
+******************************************************/
+
+div.PFGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.PFG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PFG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PFG_pt3
+{
+	background-color: #0f0;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PFG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+/******************************************************
+******** Price Expansion Generator ********
+******************************************************/
+
+div.PEGcanvas
+{
+	line-height: 0px; 
+	font-size:  x-small; /* 0px Ians */
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.PEG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEG_pt3
+{
+	background-color: #0f0;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEG_pe0
+{
+	background-color: gray;	
+}
+
+div.PEG_pe1
+{
+	background-color: Blue;
+}
+
+div.PEG_pe2
+{
+	background-color: red;	
+}
+
+div.PEG_pe3
+{
+	background-color: Blue;	
+}
+
+div.PEG_pe4
+{
+	background-color:  red;	
+}
+
+div.PEG_pe5
+{
+	background-color: Blue;
+}
+
+div.PEG_pe6
+{
+	background-color:  red;	
+}
+
+div.PEG_pe7
+{
+	background-color: Blue;
+}
+
+div.PEG_pe8
+{
+	background-color:  red;		
+}
+
+div.PEG_pe9
+{
+	background-color:Blue;
+}
+
+div.PEG_pe10
+{
+	background-color: red;	
+}
+
+/******************************************************
+******** Horizontal Vertical Generator ********
+******************************************************/
+
+div.HGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.HG_HLine
+{
+	background-color: #f00;
+}
+
+/******************************************************
+******** Vertical Generator ********
+******************************************************/
+
+div.VGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.VG_VLine
+{
+	background-color: #00f;
+}
+
+/******************************************************
+******** BullBear Generator ********
+******************************************************/
+
+div.BBGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.BBG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.BBG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.BBG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.BBG_pe0
+{
+	background-color: Black;	
+}
+
+div.BBG_pe1
+{
+	background-color:  Gray;	
+}
+
+div.BBG_pe2
+{
+	background-color: Lime;
+}
+
+div.BBG_pe3
+{
+	background-color: Blue;	
+}
+
+div.BBG_pe4
+{
+	background-color:  Red;
+}
+
+div.BBG_pe5
+{
+	background-color: Blue;	
+}
+
+div.BBG_pe6
+{
+	background-color: Lime;	
+}
+
+div.BBG_pe7
+{
+	background-color: Gray;	
+}
+
+div.BBG_pe8
+{
+	background-color: Black;		
+}
+
+div.BBG_pe9
+{
+	background-color: Black;	
+}
+
+div.BBG_pe10
+{
+	background-color: Black;	
+}
+
+/******************************************************
+******** FibonacciFan Generator ********
+******************************************************/
+
+div.FFGcanvas
+{
+	line-height: 0px; 
+	font-size: x-small; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.FFG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.FFG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.FFG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.FFG_HLine
+{
+	top: 0px;
+	background-color: #00f;
+	height: 1px;
+	position: absolute;
+	z-index: 710;	
+}
+
+div.FFG_pe0
+{
+	background-color: blue;	
+}
+
+div.FFG_pe1
+{
+	background-color: red;		
+}
+
+div.FFG_pe2
+{
+	background-color: blue;	
+}
+
+div.FFG_pe3
+{
+	background-color: red;		
+}
+
+div.FFG_pe4
+{
+	background-color: lime;	
+}
+
+div.FFG_pe5
+{
+	background-color: Gray;	
+}
+
+div.FFG_pe6
+{
+	background-color: #000;	
+}
+
+div.FFG_pe7
+{
+	background-color: #000;		
+}
+
+div.FFG_pe8
+{
+	background-color: #000;		
+}
+
+div.FFG_pe9
+{
+	background-color: #000;		
+}
+
+div.FFG_pe10
+{
+	background-color: #000;	
+}
+
+/******************************************************
+******** Textbox Generator ********
+******************************************************/
+
+div.TBGcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+.TBG_TextBox
+{
+	color: #FF0000;
+	background-color: #ffc;
+	border: solid 1px gray;
+	overflow: hidden;
+	width: 205px;
+	height: 98px;
+	position: absolute;
+	z-index: 70000;
+	font-family: Arial;
+	font-size: 16pt;
+	font-weight:bolder;
+}
+
+.TBG_Fixed
+{
+	border: solid 1px Transparent;
+	background-color: Transparent;
+	z-index: 70000;
+}
+
+/******************************************************
+******** Point locator ********
+******************************************************/
+
+/* Classnames are having name like CG_tl. 
+	Here, PL stands for Point Locator */
+
+div.PLcanvas
+{
+	font-size: 8pt; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	background-color: #ffb;
+	border: solid 1px #cc9;
+	padding: 2px 5px;
+	margin: 2px;
+	display: none;
+	width: 70px;
+}
+
+div.PL
+{
+	background-color: #000;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+/******************************************************
+******** GoldenRatio Generator ********
+******************************************************/
+
+div.GRcanvas
+{
+	line-height:0px;
+	font-size:0px;
+	position:absolute;
+	display:block;
+	z-index:600;
+	width:1px;
+	height:1px;
+}
+	
+div.GR_Line 
+{
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+
+/******************************************************
+/* SETS MAX HEIGHT FOR OBOUT DROPDOWNLIST  */
+/******************************************************/
+.ob_iDdlICBC{max-height:300px !important;}
+
+
+
+/******************************************************
+******** Rectangle Generator ********
+******************************************************/
+div.REC
+{
+	border: 2px solid #000000;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.RECcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+div.REC_pt1
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.REC_pt2
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+
+
+/******************************************************
+******** Time Expansion Generator ********
+******************************************************/
+
+div.PEGTcanvas
+{
+	line-height: 0px; 
+	font-size:  x-small; /* 0px Ians */
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.PEGT_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEGT_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEGT_pt3
+{
+	background-color: #0f0;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEGT_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.PEGT_pe0
+{
+	background-color: gray;	
+}
+
+div.PEGT_pe1
+{
+	background-color: Blue;
+}
+
+div.PEGT_pe2
+{
+	background-color: red;	
+}
+
+div.PEGT_pe3
+{
+	background-color: Blue;	
+}
+
+div.PEGT_pe4
+{
+	background-color:  red;	
+}
+
+div.PEGT_pe5
+{
+	background-color: Blue;
+}
+
+div.PEGT_pe6
+{
+	background-color:  red;	
+}
+
+div.PEGT_pe7
+{
+	background-color: Blue;
+}
+
+div.PEGT_pe8
+{
+	background-color:  red;		
+}
+
+div.PEGT_pe9
+{
+	background-color:Blue;
+}
+
+div.PEGT_pe10
+{
+	background-color: red;	
+}
+
+
+
+/******************************************************
+******** T THEORY Generator IANS********
+******************************************************/
+div.TTHYT
+{
+	border-top:6px solid #FF0000;
+	border-right:1px solid #FF0000;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYTF1
+{
+	border-top:6px solid #00E51A;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYTF10
+{
+	border-top:6px solid #02DDFF;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYB
+{
+	border-bottom:6px solid #FF0000;
+	border-right:1px solid #FF0000;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYBF1
+{
+	border-bottom:6px solid #00E51A;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYBF10
+{
+	border-bottom:6px solid #02DDFF;
+	position: absolute;
+	z-index: 700;
+	
+}
+div.TTHYcanvas
+{
+	line-height: 0px; 
+	font-size: 0px; 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+div.TTHY_pt1
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.TTHY_pt2
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+
+div.TTHY_pe1
+{
+	background-color: #FF0000;
+}
+
+div.TTHY_pe2
+{
+	background-color: #00E51A;	
+}
+
+div.TTHY_pe20
+{
+	background-color: #02DDFF;	
+}
+
+
+
+
+
+/******************************************************
+******** Gann Fan Generator ********
+******************************************************/
+
+div.GFGcanvas
+{
+	line-height: 0px; 
+	font-size: small;   /* Ian changed*/ 
+	position: absolute; 
+	display: block; 
+	z-index: 600;	
+	width: 1px;
+	height: 1px;
+}
+
+div.GFG_pe
+{
+	background-color: #0f0;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.GFG_pt1
+{
+	background-color: #f00;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.GFG_pt2
+{
+	background-color: #00f;
+	width: 5px;
+	height: 5px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.GFG_HLine
+{
+	top: 0px;
+	background-color: #00f;
+	height: 1px;
+	position: absolute;
+	z-index: 710;	
+}
+
+div.GFG_pe
+{
+	background-color: #000;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+	z-index: 700;
+}
+
+div.GFG_pe_H
+{
+	width: 2px;
+	height: 1px;
+}
+
+div.GFG_pe_V
+{
+	width: 1px;
+	height: 2px;
+}
+
+div.GFG_pe0
+{
+	background-color: Black;
+}
+
+div.GFG_pe1
+{
+	background-color: Gray;
+}
+
+div.GFG_pe2
+{
+	background-color: Lime;
+}
+
+div.GFG_pe3
+{
+	background-color: Blue;
+}
+
+div.GFG_pe4
+{
+	background-color:  Red;
+}
+
+div.GFG_pe5
+{
+	background-color: Blue;	
+}
+
+div.GFG_pe6
+{
+	background-color:  Lime;
+}
+
+div.GFG_pe7
+{
+	background-color:  Gray;
+}
+
+div.GFG_pe8
+{
+	background-color: Black;	
+}
+
+div.GFG_pe9
+{
+	background-color: Black;
+}
+
+div.GFG_pe10
+{
+	background-color: Black;
+}
+
+div.GFG_pe11
+{
+	background-color: #FF00DC;
+}
+
+div.GFG_fX
+{
+	margin: -5px 0px;	
+}
+
+div.GFG_fY
+{
+	margin: 0px -15px;	
+}
+
+
+
+/******************************************************
+******** DRAGABILLY   ********
+******************************************************/
+
+ .CHARTDRAGinText{
+    position:absolute;
+    top: 20px;
+    left: 10px;
+    width:540px;
+    height: 170px;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    background: #FFF26B;/* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(top, #FFF26B 90% , #FFDCC6 10%); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(top, #FFF26B 90%, #FFDCC6 10%); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(top, #FFF26B 90%, #FFDCC6 10%); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to top, #FFF26B 90% , #FFDCC6 10%); /* Standard syntax */
+    overflow-y:auto;
+    overflow-x;hidden;
+     z-index: 7003;
+ }
+ 
+ .CHARTDRAGinSideBar{
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    width:35px;
+    height: 200px;
+    background: #F20000;
+    z-index: 7000;
+ }
+ 
+ .CHARTDRAGgable {
+    position:absolute;/*was relative;*/
+    overflow:hidden;
+    width: 600px;
+    height: 200px;
+    border-width: 4px;
+    border-color: #FF0000;
+    border-style: solid;
+    background: #0023EF;
+    border-radius: 10px;
+    z-index: 7010;
+}
+
+
+.CHARTDRAGgable.is-dragging { 
+opacity: 0.5; 
+}
+
+
+/******************************************************
+******** DRAGABILLY  with text input ********
+******************************************************/
+
+    
+  .CHARTDRAGinTextInput{
+    position:absolute;
+    top: 20px;
+    left: 525px;
+    width:540px;
+    height: 205px;
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px;
+    background: #FFF26B;/* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(top, #FFF26B 90% , #FFDCC6 10%); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(top, #FFF26B 90%, #FFDCC6 10%); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(top, #FFF26B 90%, #FFDCC6 10%); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to top, #FFF26B 90% , #FFDCC6 10%); /* Standard syntax */
+    overflow-y:auto;
+    overflow-x;hidden;
+    z-index: 7003;
+ }
+ 
+
+ 
+ .CHARTDRAGinSideBarInput{
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    width:35px;
+    height: 265px;
+    background: #F20000;
+    z-index: 7000;
+ }
+ 
+ .CHARTDRAGgableInput {
+    position:absolute;/*was relative;*/
+    overflow:hidden;
+    width: 1110px;
+    height: 265px;
+    border-width: 4px;
+    border-color: #FF0000;
+    border-style: solid;
+    background: #0023EF;
+    border-radius: 10px;
+    z-index: 7010;
+}
+
+
+.CHARTDRAGgableInput.is-dragging { 
+opacity: 0.5; 
+}
+
+ 
+/*SYMBOL SEARCH AutoComplete flyout */
+.ACFcompletionList {
+    border: solid 2px #000000;
+    width:500px!important;
+    margin: 0px;
+    padding: 2px;
+    font-size:12px;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    /*height:500px;*/
+    overflow: auto;
+    background-color: #FFFFFF;
+    z-index:2000 !important;
+    
+}
+
+.ACFlistItem {
+    border-bottom: dotted 1px #006699;
+    color: #000000;
+    cursor: pointer;
+    z-index:1000 !important;
+}
+
+.ACFitemHighlighted {
+    background-color: #FFE875;
+    cursor: pointer;
+}

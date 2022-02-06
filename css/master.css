@@ -1,0 +1,72 @@
+﻿body
+{
+    margin:0;
+    font-family: Arial;
+    background-color:#d9eaff;
+}
+.headertbl
+{
+    color: white;
+    height:100px;
+    width:100%;
+    font-family: Arial;
+    background-color:#0000ff;
+}
+.headertblcharts
+{
+    color: white;
+    width:100%;
+    font-family: Arial;
+    background-color:#0000ff;
+}
+.copyright
+{
+    color: white;
+    font-family: Arial;
+    font-size:75%;
+    font-weight: bold;
+    background-color: #0000ff;
+}
+.MainMenuFill
+{
+    background-color:#0000ff;
+    height:30px;
+    width:100%;
+    border-style:none;
+    position:absolute;top:95px;left:0;
+    z-index:-1;
+}
+
+/* CSS for menu links within master pages*/
+.dt:link 
+{
+font-family : verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 12px; 
+text-decoration : none; 
+} 
+.dt:visited 
+{
+font-family : verdana, arial, helvetica, sans-serif; 
+color : #0026FF; 
+font-weight : normal; 
+font-size : 12px; 
+text-decoration : none; 
+} 
+.dt:hover 
+{
+font-family : verdana, arial, helvetica, sans-serif; 
+color : #ff3e3e; 
+font-weight : normal; 
+font-size : 12px; 
+text-decoration : underline; 
+} 
+.dt:active 
+{
+font-family : verdana, arial, helvetica, sans-serif; 
+color : #007AF4; 
+font-weight : normal; 
+font-size : 12px; 
+text-decoration : underline; 
+}
